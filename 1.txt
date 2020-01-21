@@ -16,6 +16,7 @@ zhihu.com##.OpenInApp
 zhuanlan.zhihu.com##.OpenInAppButton
 ! 知乎专栏改用 www 子域了？
 www.zhihu.com##.OpenInAppButton
+www.zhihu.com/pub/book*
 
 ! voidlinux snow animation (eats CPU!)
 |https://voidlinux.org/assets/css/snow.css
