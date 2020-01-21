@@ -12,9 +12,10 @@ blog.csdn.net###recommend-right
 blog.csdn.net###asideFooter
 blog.csdn.net###asideNewComments
 blog.csdn.net###asideHotArticle
-blog.csdn.net###comment-box
+blog.csdn.net###asideNewArticle
 ! 屏蔽class=""
 blog.csdn.net##div[class*="t0 clearfix"]
+blog.csdn.net##div[class*="recommend-box"]
 
 ! 知乎右侧栏广告 2017年3月1日
 |https://pic*.zhimg.com/*|ad*.*$image
