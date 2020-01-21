@@ -6,6 +6,16 @@
 ! YouTube 全屏播放器的无意义遮挡
 www.youtube.com##.ytp-gradient-top
 
+! 屏蔽id="" csdn
+blog.csdn.net###asideArchive
+blog.csdn.net###recommend-right
+blog.csdn.net###asideFooter
+blog.csdn.net###asideNewComments
+blog.csdn.net###asideHotArticle
+blog.csdn.net###comment-box
+! 屏蔽class=""
+blog.csdn.net##div[class*="t0 clearfix"]
+
 ! 知乎右侧栏广告 2017年3月1日
 |https://pic*.zhimg.com/*|ad*.*$image
 zhihu.com##.shameimaru-section
