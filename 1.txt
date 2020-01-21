@@ -162,6 +162,8 @@ zhihu.com##.AppBanner-layout
 zhihu.com##.Card-section.RelatedCommodities-list
 zhihu.com##.Card-header.RelatedCommodities-title
 zhihu.com##.Footer
+zhihu.com##.Card-section.SimilarQuestions-list
+zhihu.com##.Card-header.SimilarQuestions-title
 segmentfault.com###loginBanner
 segmentfault.com##.hidden-sm.hidden-xs.loginBanner
 segmentfault.com###backtop
