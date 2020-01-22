@@ -16,6 +16,8 @@ blog.csdn.net###asideNewArticle
 blog.csdn.net##div[class*="t0 clearfix"]
 blog.csdn.net##div[class*="recommend-box"]
 
+www.itkylin.com##div[class*="widget widget_text"]
+
 ! 知乎右侧栏广告 2017年3月1日
 |https://pic*.zhimg.com/*|ad*.*$image
 zhihu.com##.shameimaru-section
