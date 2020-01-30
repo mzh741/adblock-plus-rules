@@ -1,4 +1,4 @@
-[Adblock Plus 2.0]
+﻿[Adblock Plus 2.0]
 ! Title: NEW RULES
 
 
@@ -12,9 +12,11 @@ blog.csdn.net###asideFooter
 blog.csdn.net###asideNewComments
 blog.csdn.net###asideHotArticle
 blog.csdn.net###asideNewArticle
+baidu.com###con-ar
 ! 屏蔽class=""
 blog.csdn.net##div[class*="t0 clearfix"]
 blog.csdn.net##div[class*="recommend-box"]
+baidu.com##div[class*="opr-recommends-merge-content"]
 
 www.itkylin.com##div[class*="widget widget_text"]
 
