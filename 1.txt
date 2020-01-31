@@ -24,8 +24,8 @@ zhidao.baidu.com##div[class*="cms-slide cms-slide-lazy mod-noshadow"]
 zhidao.baidu.com##div[class*="wgt-related mt-5 mod-shadow"]
 zhidao.baidu.com##div[class*="question-number-text-chain"]
 zhidao.baidu.com##div[class*="earn-points-exchange-gifts-bubble"]
-zhidao.baidu.com##div[class*="jump-top-box"]
-zhidao.baidu.com##botton[class*="task-list-button"]
+zhidao.baidu.com##button[class*="task-list-button"]
+zhidao.baidu.com##a[class*="jump-goto-star"]
 
 ! 知乎右侧栏广告 2017年3月1日
 |https://pic*.zhimg.com/*|ad*.*$image
