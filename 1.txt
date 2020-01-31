@@ -20,6 +20,8 @@ zhidao.baidu.com##.iknow-icons.exp-answerbtn-yh
 blog.csdn.net##div[class*="t0 clearfix"]
 blog.csdn.net##div[class*="recommend-box"]
 baidu.com##div[class*="opr-recommends-merge-content"]
+baidu.com##div[class*="wgt-footer-new"]
+zhidao.baidu.com##.iknow-qb_home_icons.ad-leftdown-icon
 
 www.itkylin.com##div[class*="widget widget_text"]
 
