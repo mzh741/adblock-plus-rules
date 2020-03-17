@@ -8,6 +8,9 @@ baidu.com##.hint_common_restop
 baidu.com###rs
 baidu.com##.cr-offset
 baidu.com###content_right
+baidu.com###content_right
+baidu.com##.cr-offset
+
 ! 屏蔽id="" csdn
 blog.csdn.net###asideArchive
 blog.csdn.net###recommend-right
