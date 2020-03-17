@@ -4,7 +4,10 @@
 
 ! YouTube 全屏播放器的无意义遮挡
 www.youtube.com##.ytp-gradient-top
-
+baidu.com##.hint_common_restop
+baidu.com###rs
+baidu.com##.cr-offset
+baidu.com###content_right
 ! 屏蔽id="" csdn
 blog.csdn.net###asideArchive
 blog.csdn.net###recommend-right
