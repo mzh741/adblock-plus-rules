@@ -28,7 +28,8 @@ blog.csdn.net##div[class*="recommend-box"]
 baidu.com##div[class*="opr-recommends-merge-content"]
 baidu.com##div[class*="wgt-footer-new"]
 zhidao.baidu.com##.iknow-qb_home_icons.ad-leftdown-icon
-
+baidu.com##div[class*="content_right"]
+baidu.com##div[class*="tt"]
 www.itkylin.com##div[class*="widget widget_text"]
 
 zhidao.baidu.com##div[class*="cms-slide cms-slide-lazy mod-noshadow"]
