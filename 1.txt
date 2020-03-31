@@ -27,7 +27,9 @@ baidu.com##div[class*="content_right"]
 baidu.com###rs
 www.itkylin.com##div[class*="widget widget_text"]
 www.sogou.com##div[class*="right"]
-www.sogou.com##div[class*="vrwrap"]
+www.sogou.com##div[class*="hint-mid"]
+www.sogou.com##div[class*="vrTitle"]
+www.sogou.com##div[class*="hintBox"]
 
 zhidao.baidu.com##div[class*="cms-slide cms-slide-lazy mod-noshadow"]
 zhidao.baidu.com##div[class*="wgt-related mt-5 mod-shadow"]
