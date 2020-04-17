@@ -4,8 +4,8 @@
 
 ! YouTube 全屏播放器的无意义遮挡
 www.youtube.com##.ytp-gradient-top
-
-
+blog.csdn.net##.write-guide
+blog.csdn.net###writeGuide
 ! 屏蔽id="" csdn
 blog.csdn.net###asideArchive
 blog.csdn.net###recommend-right
