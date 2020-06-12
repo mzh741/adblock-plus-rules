@@ -18,7 +18,8 @@ baidu.com###j-nav-menu-container
 zhidao.baidu.com##.iknow-icons.exp-answerbtn-yh
 126.com###1584416130533_AdDiv
 ! 屏蔽class=""
-baidu.com##div[class*=nologin-nav c-font-medium"]
+baidu.com##div[class*="s-isindex-wrap s-hotsearch-wrapper"]
+baidu.com##div[class*="nologin-nav c-font-medium"]
 blog.csdn.net##div[class*="t0 clearfix"]
 blog.csdn.net##div[class*="recommend-box"]
 baidu.com##div[class*="opr-recommends-merge-content"]
